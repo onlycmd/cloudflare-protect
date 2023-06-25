@@ -1,7 +1,7 @@
 # cloudflare-protect
-Hazırlanıyor...
+Kullanım olarak şunu söyleyebilirim ki bu scripti kullanmadan önce clouflare adresinizden API'leri çekmeniz gerekmektedir. YouTube'da araştırsanız çıkar
+Söylememe gerek yok iyi kullanmalar (:
 
+# Anju Dev
 
-# Not
-
-Kod tam anlamıyla bitmiş değildir bitince dosyayı güncelleyeceğim anlayışınız için teşekkürler <3
+**https://discord.gg/anjudev** 
