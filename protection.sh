@@ -90,5 +90,16 @@ then
    else 
    exit 0
    fi
+else
+exit 0
+fi
 
 }
+
+function main(){
+    allowed_cpu_load
+    status
+    ddos_check
+    rm -f  ${status} ${current_status}
+}
+main
